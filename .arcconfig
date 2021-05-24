@@ -1,4 +1,4 @@
 {
-  "phabricator.uri" : "http://10.248.162.155:9999/"
-  "history.immutable":true
+  "phabricator.uri" : "http://10.248.162.155:9999/",
+  "history.immutable":false
 }
